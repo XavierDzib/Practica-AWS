@@ -1,5 +1,6 @@
 # Práctica AWS
 Repositorio donde se alojará una página web hecha para una práctica del curso AWS
+```mermaid
 graph TD
     %% Definición de Estilos
     classDef cliente fill:#e1f5fe,stroke:#0288d1,stroke-width:2px;
